@@ -57,7 +57,10 @@ README.md: Documentação do projeto.
       pip install <biblioteca>
 
   
+- Depois de instalar as bibliotecas, basta rodar o código abaixo:
 
+        streamlit run app.py
+  
 ## 📈 Conclusões e Próximos Passos
 
 A análise fornece insights valiosos para otimizar as operações da loja e desenvolver estratégias de vendas e marketing mais focadas. Alguns próximos passos recomendados incluem:
