@@ -41,6 +41,20 @@ As principais análises realizadas com o dataset incluem:
    - **Objetivo**: Identificar os clientes que mais contribuíram para o faturamento.
    - **Análise**: Através de um gráfico de barras, destacamos os principais clientes em termos de vendas totais, permitindo à equipe de vendas priorizar relacionamentos e potenciais programas de fidelidade para esses clientes.
 
+## 🧰 Tecnologias Utilizadas
+Python: Pandas para manipulação de dados e Plotly para visualização de gráficos.
+
+
+📂 Estrutura do Projeto
+Sample - Superstore.xls: Contém o dataset utilizado para a análise.
+app.py: Aplicação do python para rodar o programa.
+README.md: Documentação do projeto.
+🔍 Como Usar
+- instalar as dependências: Pandas, Streamlit e Plotly
+  """
+   pip install <biblioteca>
+  """
+
 ## 📈 Conclusões e Próximos Passos
 
 A análise fornece insights valiosos para otimizar as operações da loja e desenvolver estratégias de vendas e marketing mais focadas. Alguns próximos passos recomendados incluem:
