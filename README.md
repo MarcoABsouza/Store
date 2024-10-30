@@ -50,4 +50,4 @@ A análise fornece insights valiosos para otimizar as operações da loja e dese
 3. **Ações específicas para regiões de menor desempenho**, buscando aumentar o alcance e as vendas nesses locais.
 4. **Promoções focadas nas categorias com menor volume de vendas** para aumentar o giro de produtos menos populares.
 
-   [Assista ao vídeo de demonstração](./videos/nome_do_video.mp4)
+[Assista ao vídeo de demonstração](./videos/nome_do_video.mp4)
