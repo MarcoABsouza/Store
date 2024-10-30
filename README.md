@@ -52,11 +52,11 @@ README.md: Documentação do projeto.
 
 ## 🔍 Como Usar
 - instalar as dependências: Pandas, Streamlit e Plotly
-  """
+  
   
       pip install <biblioteca>
 
-  """
+  
 
 ## 📈 Conclusões e Próximos Passos
 
